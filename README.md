@@ -10,17 +10,19 @@ Comparative analysis of transfer learning techniques using VGG16 across differen
 
 ## Datasets
 1. **Animal Classification**
+  [Animal Dataset](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset)
    - Classes: Cats, Dogs, Snakes
-
-2. **Brain Tumor Classification**
+  
+3. **Brain Tumor Classification**
+   [Brain Tumor Dataset](https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256)
    - Classes: Glioma Tumor, Meningioma Tumor, Normal, Pituitary Tumor
 
 ## Performance Metrics
-### [Animal Dataset](https://www.kaggle.com/datasets/borhanitrash/animal-image-classification-dataset)
+### Animal Dataset
 - Relatively straightforward classification
 - High initial performance due to ImageNet pre-training
 
-### [Brain Tumor Dataset](https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256)
+### Brain Tumor Dataset
 - **Feature Extraction**
   - Accuracy: 0.8484
   - Faster training
