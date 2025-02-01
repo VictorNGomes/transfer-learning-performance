@@ -3,6 +3,8 @@
 ## Project Overview
 Comparative analysis of transfer learning techniques using VGG16 across different classification tasks to evaluate model performance and adaptability.
 
+[Explanatory Video](https://www.loom.com/share/9663d40759f847338f982bf1dba182d3?sid=b664310a-eeb9-467d-b644-efdd898e1c4d)
+
 ## Methodology
 - Transfer Learning Approaches
   1. Feature Extraction
